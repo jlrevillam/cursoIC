@@ -3,6 +3,8 @@
 ## Creacion nuevo proyecto JAVA basado en plantilla (arquetipo)
 mvn archetype:generate -DarchetypeArtifactId=maven-archetype-quickstart
 
+mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp
+
 
 ## Identificacion proyecto en maven:
 - groupID: 
@@ -19,7 +21,7 @@ El identificador es la suma de los dos: groupID+artifactID
 
 ## GOLES
 mvn GOLE_NAME
-    - clean:        limpiacd 
+    - clean:        limpia 
     - compile:      compila el proyecto
     - test compile: compila los test unitarios
     - test:         ejecuta las pruebas unitarias, haria las 2 anteriores 
