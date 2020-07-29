@@ -28,8 +28,7 @@ public class CalculadoraTest
         return new TestSuite( CalculadoraTest.class );
     }
 
-
-     public void testSumarPositivos()
+    public void testSumarPositivos()
     {
         int resultadoEsperado=14;
         int resultado=Calculadora.suma(9,5);
