@@ -260,7 +260,7 @@ under the License.
         <properties>
             <!-- Optional URL to server. Default value is http://localhost:9000 -->
             <sonar.host.url>
-              http://34.247.38.32:9000
+              http://52.213.111.139:9000
             </sonar.host.url>
         </properties>
     </profile>

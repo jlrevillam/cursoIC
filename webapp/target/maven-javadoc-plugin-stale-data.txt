@@ -1,0 +1,38 @@
+/usr/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/ubuntu/environment/cursoIC/webapp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc'
+-docencoding
+'UTF-8'
+-doctitle
+'webapp Maven Webapp 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/ubuntu/environment/cursoIC/webapp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'webapp Maven Webapp 1.0 API'
+com.gfi
+/home/ubuntu/environment/cursoIC/webapp/src/main/java = 1596023885429
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/script.js = 1596107743965
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/index.html = 1596107743949
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/package-list = 1596107743861
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/deprecated-list.html = 1596107743945
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/allclasses-frame.html = 1596107743949
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/overview-tree.html = 1596107743937
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/stylesheet.css = 1596107743965
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/help-doc.html = 1596107743957
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/allclasses-noframe.html = 1596107743949
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/index-all.html = 1596107743941
+/home/ubuntu/environment/cursoIC/webapp/target/site/apidocs/mijavadoc/constant-values.html = 1596107743917
